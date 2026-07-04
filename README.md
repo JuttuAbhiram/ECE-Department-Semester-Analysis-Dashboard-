@@ -166,9 +166,9 @@ It motivates me to continue building more data analytics projects.
 
 # 📬 Connect With Me
 
-* LinkedIn: *(Add your LinkedIn profile)*
-* GitHub: *(Add your GitHub profile)*
-* Email: *(Add your professional email)*
+* LinkedIn: *https://www.linkedin.com/in/abhiram-juttu-290253291/*
+* GitHub: *https://github.com/JuttuAbhiram*
+* Email: *juttuabhiram@gmail.com*
 
 ---
 
