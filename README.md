@@ -112,14 +112,12 @@ This dashboard helps educational institutions:
 
 > Add screenshots inside the **screenshots** folder and update this section.
 
-Example:
 
-```text
-screenshots/
-    dashboard.png
-    semester_analysis.png
-    student_performance.png
-```
+
+Visualize/
+    Overall both ECE Departments.png
+
+
 
 ---
 
