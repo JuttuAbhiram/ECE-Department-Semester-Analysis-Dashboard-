@@ -112,7 +112,7 @@ This dashboard helps educational institutions:
 
 > Add screenshots inside the **screenshots** folder and update this section.
 
-Visualize/Overall both ECE Departments.png
+Overall both ECE Departments
 ![Overall%20both%20ECE%20Departments](Visualize/Overall%20both%20ECE%20Departments.png)
 
 
